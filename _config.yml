@@ -22,8 +22,8 @@ urls:
       url: /blog
     # - text: Sample Page
     #   url: /sample-page
-    - text: Contact Me
-      url : /contact
+    # - text: Contact Me
+    #   url : /contact
 
 # Author Details
 
