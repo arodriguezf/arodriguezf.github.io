@@ -34,7 +34,3 @@ $ git commit -m "my site changes"
 $ git push origin master"
 ```
 You can visit your website, which will be live with your changes at http://yourusername.github.io
-
-
-
-
